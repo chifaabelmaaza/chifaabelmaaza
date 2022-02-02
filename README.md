@@ -77,7 +77,7 @@
       height="40" /> </a> </p>
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      alt="nodejs" width="50" height="50" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 
 <br>
 
