@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chifaa </h1>
-<h3 align="left">Fullstack Web Developer | JS Developer </h3>
+<h3 align="left">Fullstack Developer </h3>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" height="300" width="400"/></p>
