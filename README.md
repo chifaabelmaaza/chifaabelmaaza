@@ -1,13 +1,14 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chifaa </h1>
-<h3 align="left">Fullstack Developer </h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Chifaa,</h1>
+<h3> A software engineer with 2 years of experience developing web and mobile applications.I'm always looking to learn and grow in new areas. </h3>
 
 
-<p><img align="right" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" alt="" height="300" width="400"/></p>
+
+<p><img align="right" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" alt="" height="300" width="400" style="border-radius: 10px;"/></p>
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I'm always learning new things, and right now I'm focused on learning web and mobile applications developpement.I'm also interested in Devops.
 
 - 📫 How to reach me:  <a href = "mailto: belchifaa@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="15" width="20" /></a>
 
