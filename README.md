@@ -3,7 +3,7 @@
 <h3 align="left">Fullstack Developer </h3>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" height="300" width="400"/></p>
+<p><img align="right" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" alt="" height="300" width="400"/></p>
 <br/>
 <br/>
 
