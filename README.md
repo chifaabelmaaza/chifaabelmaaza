@@ -1,7 +1,7 @@
 <h1 align="left">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Chifaa</h1>
 <h3> A DevOps enthusiast with a knack for crafting seamless development processes and uncovering insights through data science.</h3>
 
-<p><img align="right" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" alt="Chifaa's Avatar" height="300" width="400" style="border-radius:10px"/></p>
+<p><img align="right" src="https://img.freepik.com/premium-photo/devops-concept-with-copy-spacedevops-it-service-working-agile-environment-concept-with-word-icondev-ops-symbol-black-background-with-floor-reflection3d-render_507676-1833.jpg" alt="Chifaa's Avatar" height="300" width="400" style="border-radius:10px"/></p>
 <br/>
 <br/>
 
